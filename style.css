@@ -1,0 +1,248 @@
+@charset "UTF-8";
+
+body {
+  background-color: #d3d3d3;
+}
+
+.topH h1 {
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: 2px solid #a9a9a9;
+  text-align: center;
+  width: 700px;
+}
+
+.topM {
+  background-color: #f5f5dc;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.syoukai {
+  margin:10px;
+}
+
+.menu-1, .menu-2,.menu-3,.menu-4,.menu-5 {
+  border: 2px solid #a9a9a9;
+  width: 200px;
+  background-color: #f0f8ff;
+  margin: 10px 10px;
+}
+
+.menu-all h2 {
+  text-align: center;
+  font-size: 20px;
+}
+
+.menu-1 li, .menu-2 li,.menu-3 li,.menu-4 li {
+  list-style:none;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+
+.menu-all ul {
+  padding-left: 20px;
+}
+
+
+.topM {
+  border: 2px solid #a9a9a9;
+  width: 960px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.mainP {
+  border: solid 2px #a9a9a9;
+  width: 500px;
+  margin: 10px 0;
+  background-color: #f0f8ff;
+}
+
+.mainP h2 {
+  font-size: 25px;
+  margin-left: 10px;
+}
+
+.mainP p {
+  margin-left: 10px;
+}
+
+.mainP table {
+  border: 1px solid #000000;
+  border-collapse: collapse;
+  margin:10px;
+}
+
+.mainP td, .mainP th {
+  border: 1px solid #000000;
+  font-size: 15px;
+  padding: 5px;
+}
+
+.mainP th {
+  background-color: #b0c4de;
+}
+
+.mainP h3 {
+  margin-left: 10px;
+}
+
+.mainP p {
+  margin-right: 10px;
+
+}
+
+.top-up {
+  text-align: right;
+}
+
+.hayamihyou td {
+  font-size: 10px;
+}
+.hayamihyou th {
+  font-size: 13px;
+}
+
+.menu-4 li {
+  margin-bottom: 10px;
+}
+
+.menu-5 h2 {
+  font-size: 15px;
+}
+
+.menu-5 table {
+  border: 1px solid #000000;
+  border-collapse: collapse;
+  margin:10px;
+}
+
+.menu-5 td {
+  border: 1px solid #000000;
+  font-size: 11px;
+  padding: 5px;
+}
+
+.menu-5 th {
+  font-size: 5px;
+  border: 1px solid #000000;
+
+}
+
+.menu-5 th {
+  background-color: #b0c4de;
+}
+
+.mainBuki {
+    border: solid 2px #a9a9a9;
+    width: 480px;
+    margin: 10px 0;
+    background-color: #f0f8ff;
+  }
+
+.mainBuki h2 {
+  font-size: 25px;
+  margin-left: 10px;
+}
+
+.mainBuki h3 {
+    margin-left: 10px;
+    border-left: solid 3px #4682b4;
+    border-bottom: solid 3px #4682b4;
+    width: 220px;
+    color: #4682b4;
+    padding-left: 5px;
+}
+
+.mainBuki li {
+  margin-bottom: 5px;
+}
+
+.mainBuki p {
+  padding-left: 10px;
+}
+
+.buki-table table {
+  border: 1px solid #000000;
+  border-collapse: collapse;
+  margin: 5px auto;
+}
+
+.buki-table td, .buki-table th {
+  border: 1px solid #000000;
+  padding: 5px;
+}
+
+.buki-table th {
+   background-color: #b0c4de;
+   font-size: 8px;
+}
+
+.buki-table td {
+  font-size: 9px;
+}
+
+.side-right  {
+  margin: 10px;
+}
+
+.sub-table table {
+  border: 1px solid #000000;
+  margin: 10px;
+  border-collapse: collapse;
+  width: 450px;
+}
+
+.sub-table td, .sub-table th {
+  border: 1px solid #000000;
+  padding: 5px;
+}
+
+.sub-table td {
+  font-size: 11px;
+}
+
+.sub-table th {
+  background-color: #b0c4de;
+  font-size: 8px;
+}
+
+.sub-table ul li {
+  list-style: none;
+}
+
+.sub-table ul {
+  padding-left: 0;
+}
+
+.gear-list tr td{
+  width: 210px;
+}
+
+.gear-list ul {
+  padding-left: 0;
+}
+
+.gear-list ul li {
+  list-style: none;
+}
+
+
+
+.kochira {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.map-img {
+  padding: 10px;
+}
